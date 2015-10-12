@@ -52,5 +52,5 @@ public abstract class Model {
         this.emmissionCO2 = emmissionCO2;
     }
 
-    
+
 }
