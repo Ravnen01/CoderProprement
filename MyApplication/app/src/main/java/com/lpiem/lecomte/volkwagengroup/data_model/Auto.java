@@ -6,3 +6,4 @@ package com.lpiem.lecomte.volkwagengroup.data_model;
 public class Auto extends Model {
 
 }
+
